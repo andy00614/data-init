@@ -4,11 +4,11 @@
     </textarea>
     <div class="result">
       <section>
-        <h2>json-parse:</h2>
+        <h3>json-parse:</h3>
         <vue-json-pretty :data="jsonParsed"></vue-json-pretty>
       </section>
       <section>
-        <h2>json-init:</h2>
+        <h3>json-init:</h3>
         <vue-json-pretty :data="jsonInited"></vue-json-pretty>
       </section>
     </div>
